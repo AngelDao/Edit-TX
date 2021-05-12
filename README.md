@@ -10,4 +10,4 @@ This is working on Kovan and only works with Private Key or Mnemonic wallet conf
 
 Have a prelim UI/UX ready and working
 
-![image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![image](https://github.com/AngelDao/Edit-TX/blob/main/assets/edit-tx.PNG?raw=true)
